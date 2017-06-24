@@ -1,0 +1,10 @@
+{
+	"id": 123,
+	"numbers": [12, 98, 55, 22, 33],
+	"active": false,
+	"location": {
+		"city": "pune",
+		"state": "maharasta"
+	},
+	"greeting": "Hello"
+}
